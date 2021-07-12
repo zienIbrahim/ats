@@ -1292,7 +1292,7 @@ section {
     font-family: "Montserrat", sans-serif;
 }
 
-#footer .footer-top .social-links a {
+#footer .social-links a {
     font-size: 18px;
     display: inline-block;
     color: #fff;
@@ -1306,7 +1306,7 @@ section {
     transition: 0.3s;
 }
 
-#footer .footer-top .social-links a:hover {
+#footer .social-links a:hover {
     background: #009ec2;
     color: #fff;
     text-decoration: none;
